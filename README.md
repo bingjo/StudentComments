@@ -2,7 +2,7 @@
 
 *Все комментарии были обезличены, передавался только текст и кол-во слов в категории*
 
-*[Ссылка на гугл таблицу] (https://docs.google.com/spreadsheets/d/1c7_8h25_KZjFl--DUqN9c_TlkllJ5dFV7sfzdr_ZV7s/edit?usp=sharing)*
+*[Ссылка на гугл таблицу](https://docs.google.com/spreadsheets/d/1c7_8h25_KZjFl--DUqN9c_TlkllJ5dFV7sfzdr_ZV7s/edit?usp=sharing)*
 
 ### Сбор ID студентов
 
